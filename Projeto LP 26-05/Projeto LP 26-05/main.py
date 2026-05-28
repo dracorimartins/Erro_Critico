@@ -13,7 +13,7 @@ projeto_funções.logo()
 print('\n\n')
 
 nome_char = input('Escolha o nome do seu personagem: ')
-nome_char_arq = f'Nome do personagem : {nome_char}\n'
+nome_char_arq = f'{75 * '-'} \n Nome do personagem : {nome_char}\n'
 projeto_arquivos.salvar(nome_char_arq)
 print(f'\nEntão {nome_char} sai para sua missão [...]\n')
 print(150 * '-')

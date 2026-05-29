@@ -18,7 +18,7 @@ projeto_arquivos.salvar(nome_char_arq)
 print(f'\nEntão {nome_char} sai para sua missão [...]\n')
 print(150 * '-')
 
-print(f'{txt_green}Escolha sua classe:{end_txt}\n 1 - Guerreiro\n 2 - Arqueiro\n 3 - Mago\n 4 - Druida\n 5 - Cozinheiro\n')
+print(f'{txt_green}Escolha sua classe:{end_txt}\n\n 1 - Guerreiro\n 2 - Arqueiro\n 3 - Mago\n 4 - Druida\n 5 - Cozinheiro\n')
 classe = escolher_classe(nome_char)
 print()
 

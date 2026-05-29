@@ -12,7 +12,7 @@ def iniciar(nome_char, classe, status_list):
 
     projeto_funções.logo_cap03()
 
-    print(f'Ao sair da ponte {nome_char} encontra uma bifurcação e no meio dela uma {txt_yellow}placa em uma linguagem distinta{end_txt}')
+    print(f'Ao sair da ponte {nome_char} encontra uma bifurcação e no meio dela uma {txt_yellow}placa em uma linguagem distinta{end_txt} \n')
 
     cap_3 = True
 
@@ -37,10 +37,10 @@ def iniciar(nome_char, classe, status_list):
             case 3: # Tentar ler (Sucesso somente 3 - Mago)
                 if classe == 3:
                     print(f'Se concentrou e leu a escrição pra ir pra {txt_green}esquerda{end_txt}')
-                    cap_3_arq = f'Na bifurcação, {nome_char} usou sua inteligência elevada para ler a placa e compreender que o caminho certo era o da esquerda'
+                    cap_3_arq = f'Na bifurcação, {nome_char} usou sua inteligência elevada para ler a placa e compreender que o caminho certo era o da esquerda \n'
                 else:
                     print(f'Por mais que {nome_char} tente, não consegue entender o que diz a placa\n')
-                    cap_3_arq = f'Na bifurcação, {nome_char} tentou ler a placa, sem sucesso'
+                    cap_3_arq = f'Na bifurcação, {nome_char} tentou ler a placa, sem sucesso \n'
 
             case 0:
                 projeto_funções.saiu_do_jogo(nome_char)

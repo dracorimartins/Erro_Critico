@@ -1,0 +1,1 @@
+# Passa ao lado da floresta e encontra um acampamento seguro, e vai direto para o cenário 4

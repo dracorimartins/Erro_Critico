@@ -13,10 +13,12 @@ projeto_funções.logo()
 print('\n\n')
 
 nome_char = input('Escolha o nome do seu personagem: ')
-nome_char_arq = f'{75 * '-'} \n Nome do personagem : {nome_char}\n'
+nome_char_arq = f'{100 * '_'} \n Nome do personagem : {nome_char}\n'
 projeto_arquivos.salvar(nome_char_arq)
 print(f'\nEntão {nome_char} sai para sua missão [...]\n')
-print(150 * '-')
+print(150 * '_' + '\n\n')
+
+
 
 print(f'{txt_green}Escolha sua classe:{end_txt}\n\n 1 - Guerreiro\n 2 - Arqueiro\n 3 - Mago\n 4 - Druida\n 5 - Cozinheiro\n')
 classe = escolher_classe(nome_char)
@@ -27,7 +29,15 @@ machucado = False
 status_list = []
 if machucado:
     status_list.append('machucado')
+# if companheiro:
+#     status_list.append('companheiro')
 
-cap_01.iniciar(nome_char, classe, status_list)
-cap_02.iniciar(nome_char, classe, status_list)
-cap_03.iniciar(nome_char, classe, status_list)
+cap_01.iniciar(nome_char, classe, status_list,)
+nome_dog = adoção(nome_dog)
+
+cap_02.iniciar(nome_char, classe, status_list, nome_dog)
+
+cap_03.iniciar(nome_char, classe, status_list, nome_dog)
+
+cap_03D.iniciar(nome_char, classe, status_list)
+

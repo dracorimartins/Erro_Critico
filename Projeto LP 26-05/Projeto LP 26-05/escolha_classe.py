@@ -18,7 +18,7 @@ def escolher_classe(nome_char):
 
     match classe:
         case 1:
-            print(f'O Guerreiro é a linha de frente do grupo. Ele resolve problemas com resistência, coragem e poder físico. \n {txt_yellow}Principal característica:{end_txt} Força física')
+            print(f'O Guerreiro é a linha de frente do grupo. Ele resolve problemas com resistência, coragem e poder físico. \n{txt_yellow}Principal característica:{end_txt} Força física')
             print('Selecionar a classe de Guerreiro? \n 1 - Sim \n 2 - Não\n')
             escolha = int(input())
 
@@ -32,7 +32,7 @@ def escolher_classe(nome_char):
                 print('Opção inválida')
         
         case 2:
-            print(f'O Arqueiro é um combatente ágil e preciso que usa sua grande destreza e velocidade para atacar inimigos à distância com eficiência mortal. \n {txt_yellow}Principal característica:{end_txt} Velocidade e Destreza')
+            print(f'O Arqueiro é um combatente ágil e preciso que usa sua grande destreza e velocidade para atacar inimigos à distância com eficiência mortal. \n{txt_yellow}Principal característica:{end_txt} Velocidade e Destreza')
             print('Selecionar a classe de Arqueiro? \n1 - Sim \n2 - Não')
             escolha = int(input())
 
@@ -46,7 +46,7 @@ def escolher_classe(nome_char):
                 print('Opção inválida')
 
         case 3:
-            print(f'O Mago é um mestre das artes arcanas que utiliza sua enorme inteligência para manipular magia, desvendar conhecimentos antigos e lançar feitiços poderosos. \n {txt_yellow}Principal característica:{end_txt} Inteligência')
+            print(f'O Mago é um mestre das artes arcanas que utiliza sua enorme inteligência para manipular magia, desvendar conhecimentos antigos e lançar feitiços poderosos. \n{txt_yellow}Principal característica:{end_txt} Inteligência')
             print('Selecionar a classe de Mago? \n 1 - Sim \n 2 - Não')
             escolha = int(input())
 
@@ -60,7 +60,7 @@ def escolher_classe(nome_char):
                 print('Opção inválida')
 
         case 4:
-            print(f'O Druida é ligado à natureza, aos espíritos e aos animais. \n {txt_yellow}Principal característica:{end_txt} Conexão animal e com a natureza')
+            print(f'O Druida é ligado à natureza, aos espíritos e aos animais. \n{txt_yellow}Principal característica:{end_txt} Conexão animal e com a natureza')
             print('Selecionar a classe do Druida? \n 1 - Sim \n 2 - Não')
             escolha = int(input())
 
@@ -74,7 +74,7 @@ def escolher_classe(nome_char):
                 print('Opção inválida')
 
         case 5:
-            print(f'O cozinheiro não tem experiência em batalha, espere chances menores de sucesso nessas situações. \n {txt_yellow}Principal característica:{end_txt} Carisma e... gastronimia?')
+            print(f'O cozinheiro não tem experiência em batalha, espere chances menores de sucesso nessas situações. \n{txt_yellow}Principal característica:{end_txt} Carisma e... gastronimia?')
             print('Selecionar a classe do Cozinheiro? \n 1 - Sim \n 2 - Não')
             escolha = int(input())
 

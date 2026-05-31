@@ -1,12 +1,14 @@
 import projeto_funções, escolha_classe
 import projeto_arquivos
+from cenarios import cap_01, cap_02, cap_03
 
 txt_red = '\033[1;31m'
 txt_green = '\033[1;32m'
 txt_yellow = '\033[1;93m'
+txt_cyan = '\033[1;36m'
 end_txt = '\033[m'
 
-def iniciar(nome_char, classe, status_list):
+def iniciar(nome_char, classe, status_list, nome_dog):
     # CAPÍTULO 2.5 - BIFURCAÇÃO
     print(f'{150*'-'}\n\n')
 
@@ -14,38 +16,52 @@ def iniciar(nome_char, classe, status_list):
 
     print(f'Ao sair da ponte {nome_char} encontra uma bifurcação e no meio dela uma {txt_yellow}placa em uma linguagem distinta{end_txt} \n')
 
-    cap_3 = True
+    cap_3_arq = ''
 
     while cap_3 == True:
 
-        print(f'{txt_green}O que você decide fazer?{end_txt} \n 1 - Seguir o caminho da direita \n 2 - Seguir o caminho da esquerda \n 3 - Tentar ler o que a placa diz \n\n')
+        print(f'{txt_green}O que você decide fazer?{end_txt} \n 1 - Seguir o caminho da direita \n 2 - Seguir o caminho da esquerda \n 3 - Tentar ler o que a placa diz')
+        
+        if 'companheiro' in status_list:
+            print(f'{txt_cyan} 4 - Perguntar para {nome_dog} que caminho vocês devem seguir{end_txt}\n')
+
 
         cap_3_escolha = int(input('O que você decide fazer? '))
-        cap_3_arq = ''
 
         match cap_3_escolha:
             case 1: # Direita
-                direita(nome_char, classe)
-                cap_3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da direita'
+                direita(nome_char, classe, nome_dog)
+                cap_3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da direita \n'
+                projeto_arquivos.salvar(cap_3_arq)
                 break
 
             case 2: # Esquerda
-                esquerda(nome_char, classe)
-                cap_3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da esquerda'
+                esquerda(nome_char, classe, nome_dog)
+                cap_3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da esquerda \n'
+                projeto_arquivos.salvar(cap_3_arq)
                 break
 
             case 3: # Tentar ler (Sucesso somente 3 - Mago)
                 if classe == 3:
                     print(f'Se concentrou e leu a escrição pra ir pra {txt_green}esquerda{end_txt}')
                     cap_3_arq = f'Na bifurcação, {nome_char} usou sua inteligência elevada para ler a placa e compreender que o caminho certo era o da esquerda \n'
+                    projeto_arquivos.salvar(cap_3_arq)
                 else:
                     print(f'Por mais que {nome_char} tente, não consegue entender o que diz a placa\n')
                     cap_3_arq = f'Na bifurcação, {nome_char} tentou ler a placa, sem sucesso \n'
+                    projeto_arquivos.salvar(cap_3_arq)
+
+            case 4: # Perguntar para o cachorro 
+                print(f'Perguntou para {nome_dog} que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita \n')
+                cap_3_arq = f'Na bifurcação, {nome_char} perguntou para {nome_dog} que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita \n'
+                projeto_arquivos.salvar(cap_3_arq)
+                break
 
             case 0:
                 projeto_funções.saiu_do_jogo(nome_char)
+                projeto_arquivos.salvar(f'{nome_char} abandonou o jogo...\n {50 * '-'}')
                 projeto_funções.fim_de_jogo()
-                break
+
 
             case _:
                 print(f'{txt_red}Opção inválida{end_txt} \n')
@@ -53,7 +69,7 @@ def iniciar(nome_char, classe, status_list):
         projeto_arquivos.salvar(cap_3_arq)
 
 def direita(nome_char, classe):
-    print(f'{nome_char}, escolheu direita')
+    print(f'{nome_char}, escolheu o caminho da direita')
 
 def esquerda(nome_char, classe):
-    print(f'{nome_char} escolheu esquerda')
+    print(f'{nome_char} escolheu o caminho da esquerda')

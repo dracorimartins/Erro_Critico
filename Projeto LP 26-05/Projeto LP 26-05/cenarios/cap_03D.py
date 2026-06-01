@@ -1,20 +1,27 @@
 import projeto_funções, escolha_classe
+import projeto_arquivos
+from cenarios import cap_01, cap_02, cap_03
 
 txt_red = '\033[1;31m'
 txt_green = '\033[1;32m'
 txt_yellow = '\033[1;93m'
 txt_magenta = '\033[1;95m'
+txt_cyan = '\033[1;36m'
 end_txt = '\033[m'
 
-def iniciar(nome_char, classe, status_list):
-    
+def iniciar(nome_char, classe, status_list, nome_dog):
+    # CAPÍTULO 03 D - A FLORESTA E O GOBLIM
+    print(f'{150*'-'}\n\n')
+
+    projeto_funções.logo_cap03D()
+
     print(f'Ao seguir pela direita, {nome_char} encontra uma floresta densa e sombria. O ambiente é silencioso, exceto pelo som de folhas sendo pisadas e galhos quebrando sob os pés. De repente, um goblim aparece, bloqueando o caminho de {nome_char}. O goblim é pequeno, com pele verde e olhos vermelhos brilhantes. {txt_yellow}Ele segura uma adaga enferrujada e parece hostil.{end_txt}\n')
     print()
     
     cen3D = True
     
     while cen3D:
-        print(f'{txt_green}O que você decide fazer?{end_txt}\n 1 - Combater o goblim (Sacar sua arma e atacar antes de ser atacado) \n 2 - Tentar desviar o caminho (Abrir distância e mudar a rota) \n 3 - Intimidação (Gritar e tentar assustar o goblim) \n 4 - Manipulação e distração (Tentar dialogar com o goblim) \n 0 - Sair do jogo\n')
+        print(f'{txt_green}O que você decide fazer?{end_txt}\n 1 - Combater o goblim (Sacar sua arma e atacar antes de ser atacado) \n 2 - Tentar desviar o caminho (Abrir distância e mudar a rota) \n 3 - Intimidação (Gritar e tentar assustar o goblim) \n 4 - Manipulação e distração (Tentar dialogar com o goblim)\n')
         print()
         
         cen3D_escolha = int(input("O que você decide fazer? "))
@@ -84,6 +91,7 @@ def iniciar(nome_char, classe, status_list):
                 else:
                     cen3D = False
                     print(f'{txt_red}Falha!{end_txt} {nome_char} tenta conversar com o goblim, mas ele não entende e ataca.')
+                    # TODO COLOCAR FIM DE JOGO AQUI
             
             case 0:
                 cen3D = False

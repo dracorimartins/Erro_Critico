@@ -8,13 +8,21 @@ txt_yellow = '\033[1;93m'
 txt_cyan = '\033[1;36m'
 end_txt = '\033[m'
 
+# def direita(nome_char, classe):
+#     print(f'{txt_green}{nome_char}, escolheu o caminho da direita{end_txt}')
+#     return False
+
+# def esquerda(nome_char, classe):
+#     print(f'{txt_green}{nome_char} escolheu o caminho da esquerda{end_txt}')
+#     return True
+
 def iniciar(nome_char, classe, status_list, nome_dog):
-    # CAPÍTULO 2.5 - BIFURCAÇÃO
+    # CAPÍTULO 3 - BIFURCAÇÃO
     print(f'{150*'-'}\n\n')
 
     projeto_funções.logo_cap03()
 
-    print(f'Ao sair da ponte {nome_char} encontra uma bifurcação e no meio dela uma {txt_yellow}placa em uma linguagem distinta{end_txt} \n')
+    print(f'Ao sair da ponte, {nome_char} encontra uma bifurcação e no meio dela uma {txt_yellow}placa em uma linguagem distinta{end_txt} \n')
 
     cen3_arq = ''
 
@@ -30,15 +38,15 @@ def iniciar(nome_char, classe, status_list, nome_dog):
 
         match cap_3_escolha:
             case 1: # Direita
-                direita(nome_char, classe,)
                 cen3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da direita \n'
                 projeto_arquivos.salvar(cen3_arq)
+                return True
                 break
 
             case 2: # Esquerda
-                esquerda(nome_char, classe,)
                 cen3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da esquerda \n'
                 projeto_arquivos.salvar(cen3_arq)
+                return False
                 break
 
             case 3: # Tentar ler (Sucesso somente 3 - Mago)
@@ -65,10 +73,11 @@ def iniciar(nome_char, classe, status_list, nome_dog):
             case _:
                 print(f'{txt_red}Opção inválida{end_txt} \n')
 
-        projeto_arquivos.salvar(cen3_arq)
 
-def direita(nome_char, classe):
-    print(f'{nome_char}, escolheu o caminho da direita')
+# def direita(nome_char, classe):
+#     print(f'{nome_char}, escolheu o caminho da direita')
+#     return False
 
-def esquerda(nome_char, classe):
-    print(f'{nome_char} escolheu o caminho da esquerda')
+# def esquerda(nome_char, classe):
+#     print(f'{nome_char} escolheu o caminho da esquerda')
+#     return True

@@ -1,18 +1,24 @@
-nomes = None
+import cores_texto
 
-def nomecatchoro():
-    dog = 'nyx' 
-    global nomes
-    nomes = dog
-    return dog
+# nomes = None
 
-def meunome(dog):
-    ric = 'Ricardo'
-    print(dog)
-    print(nomes)
-    return ric
+# def nomecatchoro():
+#     dog = 'nyx' 
+#     global nomes
+#     nomes = dog
+#     return dog
 
-nomecatchoro()
-meunome(nomecatchoro)
+# def meunome(dog):
+#     ric = 'Ricardo'
+#     print(dog)
+#     print(nomes)
+#     return ric
+
+# nomecatchoro()
+# meunome(nomecatchoro)
+
+#-------------------------------------------------------------------------
+
+print(f'{cores_texto.txt_green}Olá, seja bem-vindo ao teste de código!{cores_texto.end_txt}\n\n')
 
 

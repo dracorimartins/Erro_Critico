@@ -1,0 +1,5 @@
+txt_red = '\033[1;31m'
+txt_green = '\033[1;32m'
+txt_yellow = '\033[1;93m'
+txt_cyan = '\033[1;36m'
+end_txt = '\033[m'

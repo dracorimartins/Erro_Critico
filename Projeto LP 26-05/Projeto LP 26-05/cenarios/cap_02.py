@@ -40,6 +40,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     if sucesso_machucado: # Machucado sucesso
                         print(f'{txt_green}Apesar de estar machucado(a) devido ao encontro com o cachorro, {nome_char} consegue correr e chegar ao outro lado do penhasco antes da ponte cair{end_txt}')
                         cen2_arq = f'Apesar de estar machucado(a), {nome_char} conseguiu cruzar a ponte\n'
+                        projeto_arquivos.salvar(cen2_arq)
                         break
                     else: # Machucado falha
                         print(f'{txt_red}{nome_char} tenta correr, mas como está machucado devido ao encontro com o cachorro, não consegue atravessar a ponte a tempo, e cai no penhasco{end_txt}')
@@ -51,6 +52,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     if sucesso_cen2: # Sucesso
                         print(f'{txt_green}{nome_char} corre com todas as suas forças e consegue cruzar a ponte antes que a mesma caia{end_txt}')
                         cen2_arq = f'Correu da ponte que caía e conseguiu cruza-la\n'
+                        projeto_arquivos.salvar(cen2_arq)
                         break
                     else: # Falha
                         print(f'{txt_red}{nome_char} corre com todas as suas forças e mas mesmo assim não cruzar a ponte antes que a mesma caia...{end_txt}')
@@ -63,6 +65,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     if sucesso_cen2: # Sucesso
                         print(f'{txt_green}{nome_char} concentrou as suas forças arcanas e conjurou um feitiço de vôo, cruzando o restante da ponte voando{end_txt}')
                         cen2_arq = f'{nome_char} concentrou as suas forças arcanas e conjurou um feitiço de vôo, e cruzou a ponte que caía voando\n'
+                        projeto_arquivos.salvar(cen2_arq)
                         break
                     else:# Falha
                         print(f'{txt_green}{nome_char} tentou se concentrar em um feitiço de vôo, mas falhou e caiu{end_txt}')
@@ -75,9 +78,10 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     if sucesso_cen2: # Sucesso
                         print(f'{txt_green}{nome_char}chamou a natureza e conjurou raízes para sustentar a ponte, dando tempo o suficiente para atravessar a mesma{end_txt}')
                         cen2_arq = f'{nome_char}chamou a natureza e conjurou raízes para sustentar a ponte que caía, dando tempo o suficiente para atravessar a mesma\n'
+                        projeto_arquivos.salvar(cen2_arq)
                         break
                     else: # Falha
-                        print(f'{txt_red}{nome_char} chamou a natureza, mas ela falou "Mais 5 minutinhos zZz" e {nome_char} caiu{end_txt}')
+                        print(f'{txt_red}{nome_char} chamou a natureza, mas ela falou "Mais 5 minutinhos zZz" e {nome_char} caiu no penhasco{end_txt}')
                         cen2_arq = f'{nome_char} chamou a natureza, mas ela falou "Mais 5 minutinhos zZz" e {nome_char} caiu no penhasco\n'
                         projeto_arquivos.salvar(cen2_arq)
                         projeto_funções.fim_de_jogo()
@@ -94,6 +98,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                 if sucesso_cen2: # Sucesso
                     print(f'{txt_green}{nome_char} segurou firme nas cordas, andou devagar e com cuidado, e conseguiu atressar a ponte {end_txt}')
                     cen2_arq = f'{nome_char} atravessou a ponte com cuidado e paciência\n'
+                    projeto_arquivos.salvar(cen2_arq)
                     break
                 else: # Falha
                     print(f'{txt_red}{nome_char} andou lentamente, mas a ponte caiu antes de {nome_char} conseguisse atravessar{end_txt}')
@@ -102,8 +107,9 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     projeto_funções.fim_de_jogo()
 
             case 4: # Voltar = Falha
-                print(f'{txt_red}A ponte caiu ...{end_txt}')
+                print(f'{txt_red}A ponte caiu ...(O que você achou que ia acontecer?){end_txt}')
                 cen2_arq = f'{nome_char} tentou voltar em uma ponte que obviamente ia cair, e quem diria... ela caiu\n'
+                projeto_arquivos.salvar(cen2_arq)
                 projeto_funções.fim_de_jogo()
                 break
 
@@ -115,4 +121,4 @@ def iniciar(nome_char, classe, status_list, nome_dog):
             case _:
                 print(f'{txt_red}Opção inválida{end_txt} \n')
 
-    projeto_arquivos.salvar(cen2_arq)
+

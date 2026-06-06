@@ -1,322 +1,378 @@
 ____________________________________________________________________________________________________ 
  Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
+A classe selecionada foi : Druida
+Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de Nyx
 ____________________________________________________________________________________________________ 
- Nome do personagem : dracori
-A classe selecionada foi : Guerreiro
+ Nome do personagem : Dracori
+A classe selecionada foi : Druida
+Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de Nyx
+GAME OVER
+____________________________________________________________________________________________________
+
 ____________________________________________________________________________________________________ 
- Nome do personagem : dracori
-A classe selecionada foi : Guerreiro
+ Nome do personagem : Dracori
 ____________________________________________________________________________________________________ 
- Nome do personagem : adsd
+ Nome do personagem : Dracori
 A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : fsdf
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : sdfs
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasda
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : 123123
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdsda
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdas
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdas
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asda
-A classe selecionada foi : Guerreiro
-Correu da ponte que caï¿½a e conseguiu cruza-la
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, asdasd perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : asdqsw
-A classe selecionada foi : Guerreiro
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, asdqsw perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : asdasd
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : adsaq
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : asdas
-A classe selecionada foi : Guerreiro
+Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de Nyx
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, Dracori escolheu o caminho da direita 
+Matou o goblim com sua espada
 ____________________________________________________________________________________________________ 
  Nome do personagem : Dracori
 A classe selecionada foi : Arqueiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Cozinheiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori escolheu o caminho da direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Tentou correr para cruzar a ponte, mas nï¿½o seguiu e caiu pra sua morte
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori escolheu o caminho da direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori escolheu o caminho da direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori escolheu o caminho da direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de Nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, Dracori escolheu o caminho da direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : t
-A classe selecionada foi : Guerreiro
-____________________________________________________________________________________________________ 
- Nome do personagem : ale
-A classe selecionada foi : Guerreiro
-ale distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-Adotou o cï¿½o selvagem, dando o nome de nyx
-Correu da ponte que caï¿½a e conseguiu cruza-la
-Na bifurcaï¿½ï¿½o, ale perguntou para nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, ale perguntou para nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcaï¿½ï¿½o, ale tentou ler a placa, sem sucesso 
-Na bifurcaï¿½ï¿½o, ale tentou ler a placa, sem sucesso 
-Na bifurcaï¿½ï¿½o, ale escolheu o caminho da esquerda 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
-Dracori escolheu abandonar sua aventura...
-GAME OVER
-____________________________________________________________________________________________________
-
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Mago
-Dracori distraiu o cï¿½o selvagem com um osso, deixando-o muito feliz
-
-Adotou o cão selvagem, dando o nome de Nyx
-Correu da ponte que caía e conseguiu cruza-la
-Na bifurcação, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcação, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
-A classe selecionada foi : Guerreiro
 Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
 Adotou o cão selvagem, dando o nome de Nyx
 Correu da ponte que caía e conseguiu cruza-la
-Na bifurcação, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcação, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
-Na bifurcação, Dracori escolheu o caminho da direita 
+Na bifurcação, Dracori escolheu o caminho da esquerda 
 ____________________________________________________________________________________________________ 
- Nome do personagem : dracori
+ Nome do personagem : drasdasd
 A classe selecionada foi : Guerreiro
-dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
-Adotou o cão selvagem, dando o nome de nyx
+drasdasd distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdas
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, drasdasd escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adasda
+A classe selecionada foi : Guerreiro
+adasda distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdasda
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, adasda escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : oygh
+A classe selecionada foi : Guerreiro
+oygh distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de hgfhgf
 Tentou correr para cruzar a ponte, mas não seguiu e caiu pra sua morte
 GAME OVER
 ____________________________________________________________________________________________________
 
 ____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
+ Nome do personagem : gfjhkj
 A classe selecionada foi : Guerreiro
-Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
-Adotou o cão selvagem, dando o nome de Nyx
+gfjhkj distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de gdfhgfjhv
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, gfjhkj escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : kjfjh
+A classe selecionada foi : Guerreiro
+kjfjh distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de gfhjgfjh
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, kjfjh escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adasda
+A classe selecionada foi : Guerreiro
+adasda distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdasd
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, adasda escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdajsdkjas
+A classe selecionada foi : Guerreiro
+asdajsdkjas distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdjasdk
 Tentou correr para cruzar a ponte, mas não seguiu e caiu pra sua morte
 GAME OVER
 ____________________________________________________________________________________________________
 
 ____________________________________________________________________________________________________ 
- Nome do personagem : Dracori
+ Nome do personagem : asdajskdjas]
 A classe selecionada foi : Guerreiro
-Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
-Adotou o cão selvagem, dando o nome de Nyx
+asdajskdjas] distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdljhskdja
+Tentou correr para cruzar a ponte, mas não seguiu e caiu pra sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdjhaskdjhaks]
+A classe selecionada foi : Guerreiro
+asdjhaskdjhaks] distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de sdjhaskjd
 Correu da ponte que caía e conseguiu cruza-la
-Na bifurcação, Dracori escolheu o caminho da direita 
+Na bifurcação, asdjhaskdjhaks] escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdjah
+A classe selecionada foi : Guerreiro
+asdasdjah distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdalsd
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, asdasdjah escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : akdaksdhaks]
+A classe selecionada foi : Guerreiro
+akdaksdhaks] distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdasd
+Tentou correr para cruzar a ponte, mas não seguiu e caiu pra sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+asdasdas distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de asdasda
+Tentou correr para cruzar a ponte, mas não seguiu e caiu pra sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasda
+A classe selecionada foi : Guerreiro
+asdasda distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de adasdas
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, asdasda escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : ASDASDASD
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), ASDASDASD não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), asdasd não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), asdasdasd não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+asdasdas tentou intimidar o cão selvagem, mas falhou e se machucou
+Apesar de estar machucado(a), asdasdas conseguiu cruzar a ponte
+Na bifurcação, asdasdas escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : drafdasdf
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), drafdasdf não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsahsdajsh
+A classe selecionada foi : Guerreiro
+adsahsdajsh distraiu o cão selvagem com um osso, deixando-o muito feliz
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, adsahsdajsh escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : dasdas
+A classe selecionada foi : Guerreiro
+dasdas distraiu o cão selvagem com um osso, deixando-o muito feliz
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, dasdas escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasd conseguiu cruzar a ponte
+Na bifurcação, asdasd escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), adsasdas não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : dsasa
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), dsasa conseguiu cruzar a ponte
+Na bifurcação, dsasa escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), adsasd não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasdas conseguiu cruzar a ponte
+Na bifurcação, asdasdas escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : jhgjhg
+A classe selecionada foi : Arqueiro
+jhgjhg distraiu o cão selvagem com um osso, deixando-o muito feliz
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, jhgjhg escolheu o caminho da direita 
+Na bifurcação, jhgjhg escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : ashdguasdg
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), ashdguasdg conseguiu cruzar a ponte
+Na bifurcação, ashdguasdg escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : dasdasd
+A classe selecionada foi : Guerreiro
+____________________________________________________________________________________________________ 
+ Nome do personagem : C:\Users\USUARIO\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/USUARIO/OneDrive/Documentos/Dracori/GitHub/Erro_Critico/Projeto LP 26-05/Projeto LP 26-05/main.py"
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsd
+A classe selecionada foi : Guerreiro
+adsd distraiu o cão selvagem com um osso, deixando-o muito feliz
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, adsd escolheu o caminho da direita 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), adsasda não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : dsasdasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), dsasdasd conseguiu cruzar a ponte
+Na bifurcação, dsasdasd escolheu o caminho da direita 
+Matou o goblim com sua espada
+dsasdasd sacou sua espada e atacou o golem, o destruindo
+____________________________________________________________________________________________________ 
+ Nome do personagem : dasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), dasda não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : sdasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), sdasda conseguiu cruzar a ponte
+Na bifurcação, sdasda escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdas
+A classe selecionada foi : 
+____________________________________________________________________________________________________ 
+ Nome do personagem : dasdsda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), dasdsda não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : eqwedasd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), eqwedasd não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasda conseguiu cruzar a ponte
+Na bifurcação, asdasda escolheu o caminho da esquerda 
+asdasda sacou sua espada e atacou o golem, o destruindo
+____________________________________________________________________________________________________ 
+ Nome do personagem : sdkjashdkaj
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), sdkjashdkaj conseguiu cruzar a ponte
+Na bifurcação, sdkjashdkaj escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : adsasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), adsasda não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasdas conseguiu cruzar a ponte
+Na bifurcação, asdasdas escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : jhgfjhf
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), jhgfjhf conseguiu cruzar a ponte
+Na bifurcação, jhgfjhf escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : sdasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), sdasdas não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasds
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), asdasds não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), asdasdas não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : dfasdfasdfas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), dfasdfasdfas conseguiu cruzar a ponte
+Na bifurcação, dfasdfasdfas escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Por estar machucado(a), asdasda não conseguiu cruzar a ponte a tempo, e caiu para sua morte
+GAME OVER
+____________________________________________________________________________________________________
+
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasdas
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasdas conseguiu cruzar a ponte
+Na bifurcação, asdasdas escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : sdfsd
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), sdfsd conseguiu cruzar a ponte
+Na bifurcação, sdfsd escolheu o caminho da esquerda 
+____________________________________________________________________________________________________ 
+ Nome do personagem : asdasda
+A classe selecionada foi : Guerreiro
+Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
+Apesar de estar machucado(a), asdasda conseguiu cruzar a ponte
+Na bifurcação, asdasda escolheu o caminho da esquerda 
+asdasda sacou sua espada e atacou o golem, o destruindo

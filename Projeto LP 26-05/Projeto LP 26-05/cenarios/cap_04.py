@@ -9,9 +9,6 @@ txt_cyan = '\033[1;36m'
 end_txt = '\033[m'
 
 
-
-
-
 def iniciar(nome_char, classe, status_list, dog):
 
 

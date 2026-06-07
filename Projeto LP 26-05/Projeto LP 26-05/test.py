@@ -21,4 +21,6 @@ import cores_texto
 
 print(f'{cores_texto.txt_green}Olá, seja bem-vindo ao teste de código!{cores_texto.end_txt}\n\n')
 
+# Não usar cores_texto lol
+
 

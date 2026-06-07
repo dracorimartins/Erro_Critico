@@ -376,3 +376,20 @@ Ficou machudado na luta contra o cão selvagem, mas conseguiu matá-lo
 Apesar de estar machucado(a), asdasda conseguiu cruzar a ponte
 Na bifurcação, asdasda escolheu o caminho da esquerda 
 asdasda sacou sua espada e atacou o golem, o destruindo
+____________________________________________________________________________________________________ 
+ Nome do personagem : Dracori
+A classe selecionada foi : Guerreiro
+Dracori distraiu o cão selvagem com um osso, deixando-o muito feliz
+Adotou o cão selvagem, dando o nome de Nyx
+Correu da ponte que caía e conseguiu cruza-la
+Na bifurcação, Dracori perguntou para Nyx que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita 
+Na bifurcação, Dracori escolheu o caminho da direita 
+Matou o goblim com sua espada
+Dracori sacou sua espada e atacou o golem, o destruindo
+____________________________________________________________________________________________________ 
+ Nome do personagem : Dracori
+A classe selecionada foi : Guerreiro
+Dracori escolheu abandonar sua aventura...
+GAME OVER
+____________________________________________________________________________________________________
+

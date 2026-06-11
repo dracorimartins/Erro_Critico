@@ -1,0 +1,26 @@
+____________________________________________________________________________________________________ 
+ Nome do personagem : \sdasidjabs
+A classe selecionada foi : Guerreiro
+Matou o cão selvagem
+Correu da ponte que caisse e conseguiu cruza-la
+Na bifurcacao, \sdasidjabs escolheu o caminho da direita 
+Matou o goblim com sua espada
+\sdasidjabs sacou sua espada e atacou o golem, o destruindo
+\sdasidjabs causou 22 de dano em Pythoria
+Pythoria causou 27 de dano em \sdasidjabs
+\sdasidjabs causou 34 de dano em Pythoria
+Pythoria causou 25 de dano em \sdasidjabs
+\sdasidjabs errou o ataque contra Pythoria
+\sdasidjabs errou o ataque contra Pythoria
+\sdasidjabs errou o ataque contra Pythoria
+\sdasidjabs errou o ataque contra Pythoria
+\sdasidjabs errou o ataque contra Pythoria
+Pythoria causou 28 de dano em \sdasidjabs
+\sdasidjabs errou o ataque contra Pythoria
+Pythoria causou 14 de dano em \sdasidjabs
+\sdasidjabs causou 29 de dano em Pythoria
+\sdasidjabs causou 35 de dano em Pythoria
+Pythoria causou 16 de dano em \sdasidjabs
+\sdasidjabs derrotou Pythoria Finalis!
+____________________________________________________________________________________________________
+

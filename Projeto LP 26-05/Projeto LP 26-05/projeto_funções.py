@@ -1,6 +1,13 @@
 import random
 import projeto_arquivos
 
+txt_red = '\033[1;31m'
+txt_green = '\033[1;32m'
+txt_yellow = '\033[1;93m'
+txt_magenta = '\033[1;95m'
+txt_cyan = '\033[1;36m'
+end_txt = '\033[m'
+
 # LOGOS
 
 def logo():
@@ -78,12 +85,33 @@ def logo_cap04():
 ███      ███      ███  ▀████ ███▀▀███ ███▀▀██▄   ███  ███▄▄▄███   ███▄▄███  ▀▀▀████ 
 ▀███████ ▀███████ ███    ███ ███  ███ ███  ▀███ ▄███▄  ▀█████▀     ▀████▀      ████ 
 ''')
+    
+def logo_cap_final():
+    print('\033[1;31m'+ r'''
+                                ▄▀                              
+ ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄ ▄▄▄    ▄▄▄   ▄▄▄▄   ▄▄▄▄▄▄▄   ▄▄▄▄▄   ▄▄▄▄▄   
+███▀▀▀▀▀ ███▀▀▀▀▀ ████▄  ███ ▄██▀▀██▄ ███▀▀███▄  ███  ▄███████▄ 
+███      ███▄▄    ███▀██▄███ ███  ███ ███▄▄███▀  ███  ███   ███ 
+███      ███      ███  ▀████ ███▀▀███ ███▀▀██▄   ███  ███▄▄▄███ 
+▀███████ ▀███████ ███    ███ ███  ███ ███  ▀███ ▄███▄  ▀█████▀  
+                                                                
+           ▄▄▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄    ▄▄▄   ▄▄▄▄   ▄▄▄                
+          ███▀▀▀▀▀  ███  ████▄  ███ ▄██▀▀██▄ ███                
+          ███▄▄     ███  ███▀██▄███ ███  ███ ███                
+          ███▀▀     ███  ███  ▀████ ███▀▀███ ███                
+          ███      ▄███▄ ███    ███ ███  ███ ████████           
+                                                                
+                                                                
+'''+'\033[m' )
 
 # FIM DE JOGO
 
 def saiu_do_jogo(nome_char):
     print(f'{nome_char} escolheu abandonar sua aventura...')
     projeto_arquivos.salvar(f'{nome_char} escolheu abandonar sua aventura...\n')
+    
+def jogo_finalizado():
+    exit()
 
 def fim_de_jogo():
     print(r'''                                                                                                  
@@ -109,9 +137,6 @@ def fim_de_jogo():
 
     tentar_novamente()
 
-
-
-
 # DADOS E SEUS CENÁRIOS
 
 def dados_cen1():
@@ -129,7 +154,7 @@ def dados_cen2():
     resultado_dado = random.randint(1, 100)
     print(f'Ao tentar agir em relação a ponte, o resultado foi: {resultado_dado}/100')
 
-    if resultado_dado >= 30:
+    if resultado_dado >= 20:
         return True
     else:
         return False
@@ -163,8 +188,58 @@ def dados_cen4():
         return True
     else:
         return False
+    
+def dados_cen05_player():
+    resultado_dado = random.randint(1, 100)
+    print(f'Ao tentar agir em relação a Pythoria Finalis, o resultado foi: {resultado_dado}/100')
+    
+    if resultado_dado >= 40:
+        return True
+    else:
+        return False
+    
+def dados_cen05_phytoria(nome_char):
+    resultado_dado = random.randint(1, 100)
+    print(f'Ao tentar agir em relação a {nome_char}, o resultado foi: {resultado_dado}/100')
+    
+    if resultado_dado >= 40:
+        return True
+    else:
+        return False
+    
+# MISCELÂNEA
 
+def dados_player():
+    return random.randint(1, 100) >= 40
 
+def dados_phytoria():
+    return random.randint(1, 100) >= 50
 
+def dano_player(classe, status_list):
+    base = random.randint(10, 25)
+    
+    if classe == 1:   # Guerreiro
+        base += 10
+    elif classe == 2: # Arqueiro
+        base += 5
+    elif classe == 3: # Mago
+        base += 15
+    elif classe == 4: # Druida
+        base += 5
+    else:             # Cozinheiro
+        base = max(5, base, - 5)
+    
+    if 'machucado' in status_list and 'ferido' in status_list:
+        base = int(base * 0.4)
+        print(f'{txt_yellow}Você está machucado e ferido, seu ataque está bem enfraquecido!{end_txt}')
+    elif 'ferido' in status_list:
+        base = int(base * 0.5)
+        print(f'{txt_yellow}Você está ferido, seu ataque está enfraquecido!{end_txt}')
+    elif 'machucado' in status_list:
+        base = int(base * 0.7)
+        print(f'{txt_yellow}Você está machucado, seu ataque está um pouco enfraquecido!{end_txt}')
 
+    return base
 
+def dano_phytoria():
+    return random.randint(10, 30)

@@ -1,0 +1,56 @@
+flowchart TD
+  Start([Início])
+  NomeClasse["Escolher nome e classe"]
+  Cap01["Capítulo 1: Cão selvagem\n(1) Lutar\n(2) Desviar\n(3) Intimidar\n(4) Distrair/adotar?"]
+  Adotar{"Adotar cão?"}
+  TemDog["Tem companheiro\n(status: 'companheiro')"]
+  SemDog["Sem companheiro"]
+  StatusMach["Machucado / Ferido"]
+  Cap02["Capítulo 2: Ponte\n(1) Correr\n(2) Magia\n(3) Andar com cuidado\n(4) Voltar"]
+  GameOver(["Fim de jogo"])
+  Bifurcacao["Capítulo 3: Bifurcação\n(1) Direita\n(2) Esquerda\n(3) Ler placa\n(4) Perguntar ao cão (se tiver)"]
+  Direita["Escolhe Direita"]
+  Esquerda["Escolhe Esquerda"]
+  Ler["Ler placa (Mago -> indica Esquerda)"]
+  Cap03D["Capítulo 3D: Floresta / Goblim\n(1) Lutar\n(2) Desviar\n(3) Intimidar\n(4) Dialogar"]
+  Cap03E["Capítulo 3E: Acampamento seguro\n(restaura machucado)"]
+  Goblin_Dialog{"Dialogar -> sub-opções\n(1) Diz perdido\n(2) Procura alguém\n(3) Atacar\n(4) Oferecer cão -> morte"}
+  Cap04["Capítulo 4: Fortaleza / Golem\n(1) Lutar\n(2) Desviar\n(3) Magia\n(4) Distrair"]
+  Golem_Sucesso(["Passa pela fortaleza (final)"])
+
+  %% Fluxo
+  Start --> NomeClasse --> Cap01
+
+  %% Cap01 outcomes
+  Cap01 -->|Opções 1/2/3 (sucesso)| Cap02
+  Cap01 -->|Opção 1/3 (falha) -> machucado| StatusMach --> Cap02
+  Cap01 -->|Opção 4 (distrair) -> adotar?| Adotar
+  Adotar -->|Sim| TemDog --> Cap02
+  Adotar -->|Não| SemDog --> Cap02
+
+  %% Cap02 outcomes
+  Cap02 -->|sucesso| Bifurcacao
+  Cap02 -->|falha -> queda| GameOver
+
+  %% Bifurcação
+  Bifurcacao -->|1 Direita| Direita --> Cap03D
+  Bifurcacao -->|2 Esquerda| Esquerda --> Cap03E
+  Bifurcacao -->|3 Ler (Mago)| Ler --> Esquerda --> Cap03E
+  Bifurcacao -->|4 Perguntar ao cão (se tiver)| TemDog --> Esquerda --> Cap03E
+
+  %% Cap03D (goblim) outcomes
+  Cap03D -->|Lutar/Desviar/Intimidar (sucesso)| Cap04
+  Cap03D -->|Lutar/Intimidar (falha) -> ferido| StatusMach --> Cap04
+  Cap03D -->|Dialogar (sucesso)| Goblin_Dialog
+  Goblin_Dialog -->|1/2/3| Cap04
+  Goblin_Dialog -->|4 (oferecer cão)| GameOver
+
+  %% Cap03E leads to Cap04 (recupera machucado)
+  Cap03E --> Cap04
+
+  %% Cap04 outcomes
+  Cap04 -->|sucesso| Golem_Sucesso
+  Cap04 -->|falha| GameOver
+
+  style GameOver fill:#ffdddd,stroke:#cc0000
+  style Golem_Sucesso fill:#ddffdd,stroke:#008800

@@ -1,6 +1,6 @@
 import projeto_funções, escolha_classe
 import projeto_arquivos
-from cenarios import cap_01, cap_02, cap_03
+
 
 txt_red = '\033[1;31m'
 txt_green = '\033[1;32m'
@@ -35,16 +35,17 @@ def iniciar(nome_char, classe, status_list, nome_dog):
 
 
         cap_3_escolha = int(input('O que você decide fazer? \n'))
+        print(f'{150*"-"}\n\n')
 
         match cap_3_escolha:
             case 1: # Direita
-                cen3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da direita \n'
+                cen3_arq = f'Na bifurcacao, {nome_char} escolheu o caminho da direita \n'
                 projeto_arquivos.salvar(cen3_arq)
                 return True
                 break
 
             case 2: # Esquerda
-                cen3_arq = f'Na bifurcação, {nome_char} escolheu o caminho da esquerda \n'
+                cen3_arq = f'Na bifurcacao, {nome_char} escolheu o caminho da esquerda \n'
                 projeto_arquivos.salvar(cen3_arq)
                 return False
                 break
@@ -52,17 +53,18 @@ def iniciar(nome_char, classe, status_list, nome_dog):
             case 3: # Tentar ler (Sucesso somente 3 - Mago)
                 if classe == 3:
                     print(f'Se concentrou e leu a escrição pra ir pra {txt_green}esquerda{end_txt}')
-                    cen3_arq = f'Na bifurcação, {nome_char} usou sua inteligência elevada para ler a placa e compreender que o caminho certo era o da esquerda \n'
+                    cen3_arq = f'Na bifurcacao, {nome_char} usou sua inteligencia elevada para ler a placa e compreender que o caminho certo era o da esquerda \n'
                     projeto_arquivos.salvar(cen3_arq)
                 else:
                     print(f'Por mais que {nome_char} tente, não consegue entender o que diz a placa\n')
-                    cen3_arq = f'Na bifurcação, {nome_char} tentou ler a placa, sem sucesso \n'
+                    cen3_arq = f'Na bifurcacao, {nome_char} tentou ler a placa, sem sucesso \n'
                     projeto_arquivos.salvar(cen3_arq)
 
             case 4: # Perguntar para o cachorro 
                 print(f'{txt_cyan}Perguntou para {nome_dog} que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita \n{end_txt}')
-                cen3_arq = f'Na bifurcação, {nome_char} perguntou para {nome_dog} que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita \n'
+                cen3_arq = f'Na bifurcacao, {nome_char} perguntou para {nome_dog} que caminho seguir, e ele indicou a esquerda abanando o rabo, e rosnou para a direita \n'
                 projeto_arquivos.salvar(cen3_arq)
+                
 
             case 0:
                 projeto_funções.saiu_do_jogo(nome_char)

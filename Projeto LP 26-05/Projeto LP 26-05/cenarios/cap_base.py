@@ -5,7 +5,7 @@ def iniciar(nome_char, classe, status_list):
     print(f'inserir historia')
     print()
     
-    while cenN:
+    while True:
         print(f'inserir opções')
         print()
         

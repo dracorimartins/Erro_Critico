@@ -1,6 +1,5 @@
 import projeto_funções, escolha_classe
 import projeto_arquivos
-from cenarios import cap_01, cap_02, cap_03
 
 txt_red = '\033[1;31m'
 txt_green = '\033[1;32m'
@@ -21,12 +20,11 @@ def iniciar(nome_char, classe, status_list, nome_dog):
     cen3D = True
     
     while cen3D:
-        print(f'{txt_green}O que você decide fazer?{end_txt}\n 1 - Combater o goblim (Sacar sua arma e atacar antes de ser atacado) \n 2 - Tentar desviar o caminho (Abrir distância e mudar a rota) \n 3 - Intimidação (Gritar e tentar assustar o goblim) \n 4 - Manipulação e distração (Tentar dialogar com o goblim)\n')
+        print(f'{txt_green}O que você decide fazer?{end_txt}\n 1 - Sacar sua arma e atacar antes de ser atacado \n 2 - Abrir distância e mudar a rota \n 3 - Gritar e tentar assustar o goblim \n 4 - Tentar dialogar com o goblim\n')
         print()
         
-        cen3D_escolha = int(input("O que você decide fazer? "))
-        print(150 * '-')
-        print()
+        cen3D_escolha = int(input("O que você decide fazer?\n"))
+        print(f'{150*"-"}\n\n')
 
         cen3D_arq = ''
     
@@ -57,7 +55,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                         cen3D = False
                         print(f'{txt_red}Falha!{end_txt} {nome_char} não consegue derrotar o goblim na primeira tentativa. O goblim contra-ataca e fere {nome_char} antes de ser derrotado.')
                         status_list.append('ferido')
-                        cen3D_arq = f'Ficou ferido na luta contra o goblim, mas conseguiu derrotá-lo\n'
+                        cen3D_arq = f'Ficou ferido na luta contra o goblim, mas conseguiu derrota-lo\n'
                         projeto_arquivos.salvar(cen3D_arq)
                         break
 
@@ -85,7 +83,7 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                 else:
                     cen3D = False
                     print(f'{txt_red}Falha!{end_txt} {nome_char} não consegue assustar o goblim, que o ataca e o fere antes de fugir.')
-                    cen3D_arq = f'Não conseguiu intimidar o goblim e foi ferido\n'
+                    cen3D_arq = f'Nao conseguiu intimidar o goblim e foi ferido\n'
                     status_list.append('ferido')
                     projeto_arquivos.salvar(cen3D_arq)
                     break
@@ -105,16 +103,24 @@ def iniciar(nome_char, classe, status_list, nome_dog):
                     match goblim_talk:
                         case 1:
                             print(f'{nome_char} diz que está perdido e o goblim o deixa passar.\nO goblim responde: {txt_magenta}Humm, você parece perdido mesmo. Pode passar, mas cuidado com o que tem mais adiante... a fortaleza da minha mestra{end_txt}\n')
+                            cen3D_arq = f'{nome_char} consegue conversar com o goblim e o convence de que esta perdido'
+                            projeto_arquivos.salvar(cen3D_arq)
                             break
                         case 2:
                             print(f'{nome_char} diz que está procurando por alguém e o goblim o deixa passar.')
+                            cen3D_arq = f'{nome_char} consegue conversar com o goblim e o convence de que esta procurando por alguem'
+                            projeto_arquivos.salvar(cen3D_arq)
                             break
                         case 3:
                             print(f'{txt_green}Sucesso!{end_txt} {nome_char} ataca o goblim, e consegue matá-lo.')
+                            cen3D_arq = f'{nome_char} consegue distrair o goblim e o mata'
+                            projeto_arquivos.salvar(cen3D_arq).salvar(cen3D_arq)
                             break
                         case 4:
                             if 'companheiro' in status_list:
-                                print(f'O goblim responde: {txt_magenta}...como você ousa oferecer a vida do seu amigo em troca da sua passagem?? PODEM ATACAR!{end_txt}\nNesse momento mais tres goblins caem das arvores, e {txt_red}atacam {nome_char} e o matam{end_txt}')
+                                print(f'O goblim responde: {txt_magenta}...como você ousa oferecer a vida do seu amigo em troca da sua passagem?? PODEM ATACAR!{end_txt}\nNesse momento mais três goblins caem das árvores, e {txt_red}atacam {nome_char} e o matam{end_txt}')
+                                cen3D_arq = f'{nome_char} tenta ofecerer {nome_dog} em troca de continuar sua jornada. Que monstro...'
+                                projeto_arquivos.salvar(cen3D_arq)
                                 projeto_funções.fim_de_jogo()
 
                     cen3D = False

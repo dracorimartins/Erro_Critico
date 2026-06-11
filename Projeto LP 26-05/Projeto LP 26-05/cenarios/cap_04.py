@@ -1,6 +1,5 @@
 import projeto_funções, escolha_classe
 import projeto_arquivos
-from cenarios import cap_01, cap_02, cap_03
 
 txt_red = '\033[1;31m'
 txt_green = '\033[1;32m'
@@ -15,16 +14,15 @@ def iniciar(nome_char, classe, status_list, dog):
     projeto_funções.logo_cap04()
 
 
-    print(f'Ao seguir o caminho, {nome_char} se depara com uma fortaleza, e no seu portão lhe espera um golem de pedra que bloqueia a passagem. O golem percebe a presença de {nome_char} e {txt_yellow}começa a avançar, em direção a {nome_char}{end_txt} \n')
+    print(f'Ao seguir o caminho, {nome_char} se depara com uma fortaleza, e no seu portão lhe espera um golem de pedra que bloqueia a passagem. O golem percebe a \npresença de {nome_char} e {txt_yellow}começa a avançar, em direção a {nome_char}{end_txt} \n')
     print()
 
     while True:
-        print(f'{txt_green}O que você decide fazer?{end_txt} \n 1 - Combater o golem (Sacar sua arma e atacar) \n 2 - Tentar desviar o caminho (Se evadir da investida do golem) \n 3 - Usar magia (Concentrar seu poder mágico para agir nessa situação) \n 4 - Manipulação e distração (Tentar tirar a atenção do golem de voçê ou tentar dialogar) \n')
+        print(f'{txt_green}O que você decide fazer?{end_txt} \n 1 - Sacar sua arma e atacar \n 2 - Se evadir da investida do golem \n 3 - Concentrar seu poder mágico para agir nessa situação \n 4 - Tirar a atenção do golem de você ou dialogar \n')
         print()
         
         cen4_escolha = int(input("O que você decide fazer? \n"))
-        print(150 * '-')
-        print()
+        print(f'{150*"-"}\n\n')
     
         sucesso = projeto_funções.dados_cen4()
 
@@ -60,6 +58,7 @@ def iniciar(nome_char, classe, status_list, dog):
                         print(f'{txt_green}{nome_char} consegue se evadir da investida do golem e escapar ileso{end_txt}')
                         cen4_arq = f'{nome_char} conseguiu se evadir da investida do golem e escapar ileso\n'
                         projeto_arquivos.salvar(cen4_arq)
+                        break
                     else:
                         print(f'{txt_red}{nome_char} falha em se desviar da investida do golem e é atingido em cheio{end_txt}')
                         cen4_arq = f'{nome_char} tentou se desviar da investida do golem, mas falhou e foi atingido em cheio\n'
@@ -94,14 +93,14 @@ def iniciar(nome_char, classe, status_list, dog):
 
                 else: # if classe == 1 or 2 or 5:
                     print(f'Sua classe não possui habilidades mágicas... {nome_char} foi atingido em cheio pelo golem')
-                    cen4_arq = f'{nome_char} tentou usar magia mesmo não tendo escolhido uma classe que possui essas habilidades, e foi esmagado pelo golem\n'
+                    cen4_arq = f'{nome_char} tentou usar magia mesmo nao tendo escolhido uma classe que possui essas habilidades, e foi esmagado pelo golem\n'
                     projeto_arquivos.salvar(cen4_arq)
                     projeto_funções.fim_de_jogo()
 
             case 4: # Manipulação e distração
                 if sucesso:
-                    print(f'{txt_green}{nome_char} espera o golem se aproximar e elogia o shape do golem, dizendo que ele tem um design incrível e que é a melhor escultura de golem que já viu, o que faz o golem ficar confuso e sem jeito, dando tempo para {nome_char} escapar{end_txt}')
-                    cen4_arq = f'{nome_char} elogiou a aparência do golem e conseguiu distraí-lo, dando tempo para {nome_char} escapar\n'
+                    print(f'{txt_green}{nome_char} espera o golem se aproximar e elogia o shape do golem, dizendo que ele tem um design incrível e que é a melhor escultura de golem que já viu, \no que faz o golem ficar confuso e sem jeito, dando tempo para {nome_char} escapar{end_txt}')
+                    cen4_arq = f'{nome_char} elogiou a aparencia do golem e conseguiu distrai-lo, dando tempo para {nome_char} escapar\n'
                     projeto_arquivos.salvar(cen4_arq)
                     break
                 else:

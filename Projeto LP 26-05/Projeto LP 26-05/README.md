@@ -123,9 +123,12 @@ Para reportar bugs ou sugerir melhorias, verifique os arquivos do projeto e cons
 ##  Créditos
 
 **Criadores do Projeto:**
-- Douglas Leonardo
-- Grazielli Sena
-- Ricardo Jorge
+- Douglas Leonardo - Responsável pelo fluxograma.
+
+- Grazielli Sena - Responsável pelo sistema de escolha de classes, a base dos códigos dos cenários e a criação Capítulo 5.
+
+- Ricardo Jorge - Responsável pela criação dos capítulos, organicação dos arquivos, arquivamento (e todo o resto).
+
 - (Apoio - Allesson Carneiro)
 
 **Ano:** 2026
